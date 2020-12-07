@@ -890,6 +890,11 @@ h4 {
 }
 
 @media (max-width: 767px) {
+
+    .citation-center-mobile {
+        width: 100%;
+    }
+    
     .page-container {
         overflow-x: hidden;
         position: relative;
