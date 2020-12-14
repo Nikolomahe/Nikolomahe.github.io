@@ -648,11 +648,16 @@ h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn {
     font-family: "helvetica";
     font-weight: 400;
     color: black!important;
+}
+
+a {
+    font-family: "helvetica";
+    font-weight: 400;
+    color: white!important;
 }
 
 .container {
@@ -776,7 +781,7 @@ h4 {
 }
 
 .tc-white {
-    color: #cc7851!important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
