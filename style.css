@@ -756,6 +756,15 @@ h4 {
     color:black;
 }
 
+.display {
+    display: flex;
+    flex-direction: column;
+}
+
+.margintopfooter {
+    margin-top: 5px;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
